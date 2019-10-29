@@ -5,7 +5,7 @@ class HelloWorld
 {
     public function sayHello()
     {
-        return 'Hallo!';
+        return 'Hola!';
     }
 }
 
