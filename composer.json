@@ -2,7 +2,7 @@
     "name": "ebotey/ww-slave",
     "autoload": {
         "psr-4": {
-            "Ebotey\\CoolLib": "src"
+            "": "src"
         }
     }
 }
