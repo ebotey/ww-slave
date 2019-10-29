@@ -1,0 +1,8 @@
+{
+    "name": "ebotey/ww-slave",
+    "autoload": {
+        "psr-0": {
+            "Ebotey\\CoolLib": "src"
+        }
+    }
+}
